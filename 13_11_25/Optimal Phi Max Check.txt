@@ -1,0 +1,1 @@
+Checks calculated values of phi max by having deltax = 1

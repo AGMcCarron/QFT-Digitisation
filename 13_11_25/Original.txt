@@ -1,0 +1,7 @@
+-First 5  errors for JLP
+-First 5 errors for FD 
+-First 5 errors for FD Corrected
+-JLP vs FD for level 1
+-FD vs FD corrected for level 1
+-FD Resolution Test (increase in nq for level 1)
+-First 5 errors for HO Basis
